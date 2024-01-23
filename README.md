@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="" alt="crazy-Filter-Bot Logo">
+  <img src="https://mallucampaign.in/images/img_1706031639.jpg" alt="crazy-Filter-Bot Logo">
 </p>
 <h1 align="center">
   Crazy-FILTER-BOT
